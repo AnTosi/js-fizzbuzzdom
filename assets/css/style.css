@@ -31,3 +31,15 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
+
+.fizz {
+    background-color: #61D2A4;
+}
+
+.buzz {
+    background-color: #F9D277;
+}
+
+.fizzbuzz {
+    background-color: #DE5471;
+}
