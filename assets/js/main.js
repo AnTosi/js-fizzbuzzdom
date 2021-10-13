@@ -9,4 +9,6 @@ let cont = document.getElementById("list");
 
 for (let i = 1; i <=100; i++) {
     console.log(i);
+    cont.innerHTML += `<li> ${i} </li>`;
 }
+
