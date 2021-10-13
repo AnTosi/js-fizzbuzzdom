@@ -1,5 +1,6 @@
 body {
     background-color: #183A4A;
+    font-family: 'Motiva Sans', sans-serif;
 }
 
 ul {
@@ -27,7 +28,7 @@ li > div {
 
 h1 {
     color: white;
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: bold;
     text-align: center;
 }
